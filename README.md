@@ -14,6 +14,7 @@ This project separates resources into their relevant stage:
 
 ```
 /
+├── global/
 ├── 1-discover/
 │   ├── agents/
 │   └── commands/
